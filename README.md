@@ -4,7 +4,7 @@
 
 **Project Objective:**
 
-1. **Customer Performance Report:** Created a detailed [report](https://github.com/SannareddyHemalatha/Sales_and_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/Customer%20Performance%20Report%20of%20AtliQ%20Hardwares.pdf) to assess customer performance.
+1. **Customer Performance Report:** Created a detailed [report](https://github.com/SannareddyHemalatha/Sales_and_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/Customer%20Performance%20Report%20of%20AtliQ%20Hardwares.pdf) to assess customer performance through the years.
 2. **Market Performance Comparison:** Conducted a thorough analysis comparing [market performance](https://github.com/SannareddyHemalatha/Sales_and_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/Market%20Performance%20vs%20Target%20Report%20of%20AtliQ%20Hardwares.pdf) against sales targets.
 
 **Sales Analytics Purpose:** Empowering businesses to monitor, evaluate, and enhance their sales activities and outcomes.
@@ -17,8 +17,8 @@
 
 - **Project objective:** 
 
-1. **Profit and Loss (P&L) Reports:** Created [P&L reports by fiscal years]() and [P&L reports by fiscal months]().
-2. **P&L Reports by Markets:** Generated P&L reports categorized by [markets]().
+1. **Profit and Loss (P&L) Reports:** Created [P&L reports by fiscal years](https://github.com/SannareddyHemalatha/Sales_and_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/P%26L%20Statement%20By%20Fiscal%20Years.pdf) and [P&L reports by fiscal months](https://github.com/SannareddyHemalatha/Sales_and_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/P%26L%20Statement%20By%20Fiscal%20Months.pdf).
+2. **P&L Reports by Markets:** Generated P&L reports categorized by [markets](https://github.com/SannareddyHemalatha/Sales_and_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/P%26L%20Statement%20by%20Markets.pdf).
 
 **Finance Analytics Purpose:** Evaluating financial performance, aiding decision-making, and fostering stakeholder communication.
 
