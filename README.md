@@ -41,6 +41,6 @@
 - Optimizing report generation through meticulous fine-tuning.
 - Developing a systematic approach to creating report-building plans.
 
-Find the detailed project reports [here]().
+Find the detailed project reports [here](https://github.com/SannareddyHemalatha/Sales_and_Finance_Analytics_Of_AtliQ_Hardwares/tree/main).
 
 Your feedback and suggestions are highly appreciated. Let's continue this data-driven journey together!
