@@ -27,7 +27,7 @@
 **Reports' Role:** Aligning financial planning with strategic objectives and instilling confidence in the organization's financial outlook.
 
 
-## Technical & Soft Skills:
+## Technical Skills:
 - Proficient in efficiently extracting, transforming, and loading data to streamline data management and analysis.
 - Capable of creating comprehensive date tables in Power Query to enhance time-based data analysis.
 - Skilled in calculating fiscal months and quarters to support accurate financial reporting and analysis.
